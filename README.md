@@ -9,12 +9,18 @@ E:\Downloads>python ayto.py 5
 
 --------------------------------
 Starting: Are You the One Solver
+
 Initializing for 5 contestants
+
 True sequence is
 (2, 0, 4, 3, 1)
+
 Guesses were
+
 [(1, 3, 0, 4, 2), (0, 1, 2, 3, 4), (1, 4, 3, 2, 0), (0, 2, 4, 1, 3), (2, 0, 4, 3, 1)]
+
 Score Hints were
+
 ['0', '1', '0', '1', '5']
 
 We solved it
