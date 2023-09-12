@@ -3,7 +3,7 @@ This repo contains a generic solver for the reality dating show Are you the One 
 
 
 To run, please call the script in python along with an argument for the number of contestants
-python ayto.py <<n>> where n is the number of contestants.
+python ayto.py \<n\> where n is the number of contestants.
 eg: python ayto.py 5
 E:\Downloads>python ayto.py 5
 
